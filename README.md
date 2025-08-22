@@ -1,3 +1,4 @@
+<img width="1080" height="1080" alt="1 (2)" src="https://github.com/user-attachments/assets/22bfc09b-56e3-4af0-ab79-e61b57e10f97" />
 # ReactNative-atoz
 
 <h2>Overview</h2>
