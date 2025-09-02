@@ -39,10 +39,19 @@
 <img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/cab0e931-8502-42b9-bd2e-3256b2d4cde2" />
 <img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/27187090-bce2-402c-9fde-4c354782c75b" />
 <img width="1080" height="1080" alt="3" src="https://github.com/user-attachments/assets/ad8875d9-b96c-4d25-8208-1a3f66f7d4b1" />
-
 <img width="1080" height="1080" alt="4" src="https://github.com/user-attachments/assets/77472c85-7b48-4468-b9b9-345bcb1605c3" />
   <img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/33d9ae25-2b2c-4fd2-bff0-f9ccc9b47ed4" />
 <img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/924a5925-fb8a-4c9c-8354-a8986e6ae17b" />
 <img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/455dede0-3efd-416d-8337-a953a5bbf3ca" />
+
+<h2>Widgets Guide</h2>
+<img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/aa6ca453-5a70-4cba-9571-ad9820b7c0a7" />
+<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/cd66a40b-0c45-41b4-9795-1046f8accbc3" />
+<img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/8d76a381-1b53-4317-a3ef-38c6bcadf46a" />
+<img width="1080" height="1080" alt="3" src="https://github.com/user-attachments/assets/22a5b65f-f38a-4c6f-98bf-89342b8297a8" />
+<img width="1080" height="1080" alt="4" src="https://github.com/user-attachments/assets/2126fa23-0d32-4d5e-be43-9e7de3d0f36d" />
+ <img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/e63dc1e0-79f8-48b7-964b-cb98fefaf95f" />
+  <img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/498329e5-0cca-4f38-957a-4dc0e01e5459" />
+  <img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/90f89e9a-8262-4cbb-ad05-a49a0424217c" />
 
 
