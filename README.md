@@ -54,4 +54,18 @@
   <img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/498329e5-0cca-4f38-957a-4dc0e01e5459" />
   <img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/90f89e9a-8262-4cbb-ad05-a49a0424217c" />
 
+<h2>React Native Styling Guide</h2>
+<img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/a8099252-e926-4abe-ac29-b3b36448c963" />
+<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/14e271dd-d2da-45aa-b86d-3d9c138a4769" />
+<img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/50b61b08-19dc-41a1-b606-ede76be9ae42" />
+<img width="1080" height="1080" alt="3" src="https://github.com/user-attachments/assets/0a070bdb-383a-4c84-98e0-b78a8e2f4d19" />
+<img width="1080" height="1080" alt="4" src="https://github.com/user-attachments/assets/17c3d5ed-05d0-43fa-84b0-08d204dab6aa" />
+<img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/be9ce174-8b32-4e22-ba90-66da4641da25" />
+<img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/a09a2d2f-44d0-4a3a-b98e-4c5d78de24d6" />
+<img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/59c75437-be5b-42a4-99ba-f6cc6e1c9379" />
+
+
+
+
+
 
