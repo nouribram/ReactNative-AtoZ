@@ -12,7 +12,6 @@
 <img width="1080" height="1080" alt="8" src="https://github.com/user-attachments/assets/61fc5b2a-df8e-467e-ae38-27a1394d4249" />
 <img width="1080" height="1080" alt="9" src="https://github.com/user-attachments/assets/fd5ebc4c-bb5a-420a-86eb-5b3c119fe48b" />
 
-
 <h2>Intro To React Native</h2>
 <img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/31a3bb68-7b7e-42c7-b12b-01f2112b5cd1" />
 <img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/4712816c-bcbf-43be-abe2-8cc271857a46" />
