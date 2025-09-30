@@ -67,6 +67,8 @@
 <img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/59c75437-be5b-42a4-99ba-f6cc6e1c9379" />
 
 <h2>Handling Events</h2>
+<img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/ad70691b-b374-482d-b0f6-8c0f1873a03c" />
+
 <img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/c0868be6-28a6-489a-8ad5-f21cc377354d" />
 <img width="1080" height="1080" alt="4" src="https://github.com/user-attachments/assets/5212084c-65ec-47e5-9931-b7e563d5c44d" />
 <img width="1080" height="1080" alt="3" src="https://github.com/user-attachments/assets/9c652c58-b068-4af0-837d-6c42785de6a9" />
