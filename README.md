@@ -66,7 +66,13 @@
 <img width="1080" height="1080" alt="6" src="https://github.com/user-attachments/assets/a09a2d2f-44d0-4a3a-b98e-4c5d78de24d6" />
 <img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/59c75437-be5b-42a4-99ba-f6cc6e1c9379" />
 
-
+<h2>Handling Events</h2>
+<img width="1080" height="1080" alt="5" src="https://github.com/user-attachments/assets/c0868be6-28a6-489a-8ad5-f21cc377354d" />
+<img width="1080" height="1080" alt="4" src="https://github.com/user-attachments/assets/5212084c-65ec-47e5-9931-b7e563d5c44d" />
+<img width="1080" height="1080" alt="3" src="https://github.com/user-attachments/assets/9c652c58-b068-4af0-837d-6c42785de6a9" />
+<img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/126b16a6-4098-4afe-b40d-1f096cdebe31" />
+<img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/dc4c5f44-eaa8-40b0-8380-5a4dd0f95cc7" />
+<img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/ad70691b-b374-482d-b0f6-8c0f1873a03c" />
 
 
 
