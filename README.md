@@ -23,7 +23,6 @@
 <img width="1080" height="1080" alt="7" src="https://github.com/user-attachments/assets/8b6cd53c-3f67-4f25-a919-74ab6774c264" />
 
 <h2>Core Components</h2>
-
 <img width="1080" height="1080" alt="0" src="https://github.com/user-attachments/assets/b6dd7842-313d-4ae4-8d86-065c146ebcd5" />
 <img width="1080" height="1080" alt="1" src="https://github.com/user-attachments/assets/743544eb-67f0-4707-916f-eb10b8aa96a7" />
 <img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/ed606f8a-cbc7-4925-9549-6257ed386e10" />
